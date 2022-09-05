@@ -2,7 +2,7 @@ package statisticooddscompiler_test
 
 import (
 	"context"
-	"github.com/statistico/statistico-odds-warehouse-go-grpc-client"
+	"github.com/statistico/statistico-odds-compiler-go-grpc-client"
 	"github.com/statistico/statistico-proto/go"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
