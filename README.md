@@ -11,7 +11,7 @@ This library is a Go client for the Statistico Odds Compiler service. API refere
 $ go get -u github.com/statistico/statistico-odds-compiler-go-grpc-client
 ```
 ## Usage
-To instantiate the required client struct and retrieve and search for marker runner resources:
+To instantiate the required client struct and retrieve an event market compiled by the Statistico Odds Compiler service:
 
 ```go
 package main
