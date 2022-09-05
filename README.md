@@ -4,7 +4,7 @@
 
 This library is a Go client for the Statistico Odds Compiler service. API reference can be found here:
 
-[Statistico Odds Compiler Proto](https://github.com/statistico/statistico-proto/blob/main/odd_compiler.proto)
+[Statistico Odds Compiler Proto](https://github.com/statistico/statistico-proto/blob/main/odds_compiler.proto)
 
 ## Installation
 ```.env
