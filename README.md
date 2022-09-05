@@ -1,6 +1,6 @@
 # Statistico Odds Compiler Go gRPC Client
 
-[![CircleCI](https://circleci.com/gh/statistico/statistico-odds-compiler-go-grpc-client/tree/main.svg?style=shield)](https://circleci.com/gh/statistico/statistico-odds-compiler-go-grpc-client/tree/master)
+[![CircleCI](https://circleci.com/gh/statistico/statistico-odds-compiler-go-grpc-client/tree/master.svg?style=shield)](https://circleci.com/gh/statistico/statistico-odds-compiler-go-grpc-client/tree/master)
 
 This library is a Go client for the Statistico Odds Compiler service. API reference can be found here:
 
