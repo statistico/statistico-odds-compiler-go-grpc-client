@@ -3,7 +3,7 @@ module github.com/statistico/statistico-odds-compiler-go-grpc-client
 go 1.19
 
 require (
-	github.com/statistico/statistico-proto v0.0.15
+	github.com/statistico/statistico-proto v0.0.16
 	github.com/stretchr/testify v1.8.0
 	google.golang.org/grpc v1.54.0
 )
