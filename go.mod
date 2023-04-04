@@ -3,6 +3,7 @@ module github.com/statistico/statistico-odds-compiler-go-grpc-client
 go 1.19
 
 require (
+	github.com/statistico/statistico-proto v0.0.15
 	github.com/stretchr/testify v1.8.0
 	google.golang.org/grpc v1.54.0
 )
@@ -11,7 +12,6 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/statistico/statistico-proto v0.0.15 // indirect
 	github.com/stretchr/objx v0.4.0 // indirect
 	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/sys v0.7.0 // indirect
